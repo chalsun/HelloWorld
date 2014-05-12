@@ -1,0 +1,14 @@
+git clone https://github.com/chalsun/HelloWorld.git
+ls
+cd HelloWorld
+ls
+notepad.exe 
+notepad.exe README.md
+git status
+git add .
+git status
+git commit -m "changed readme,md"
+git status
+git push origin master
+git log
+
